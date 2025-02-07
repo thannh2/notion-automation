@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+#Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Sync files
+last_synced.txt
+notebook/
+json/
+csv/
+test/
+data/
+json/
+csv/
+onnx/
+checkpoints/
+cache/
+reputatio
+test.py
